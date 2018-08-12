@@ -1,0 +1,34 @@
+Important Design to be Reworked:
+1. Navbar - Flex + collapsible property
+2. Theme Color Change
+3. Footer - Changing to Grid rather than using Flex - justify
+
+
+
+
+{{ request()->is('users*') ? 'active' : '' }}  active links  li class = _navbar
+
+// footer scss ideas
+#3b4045 !important bkg for footer -> from:stackoflow
+
+#36393f i like this color -- from discord
+
+right aligned footer links
+42.47x18;
+
+reminder: 08/09/18 10:42 AM [in case Absentmindedness strikes]]
+- make contact us <ul> <li> and adjust h and w to and icon for balance
+- reg login and sitemap = Dont no change required yet
+- About title and description = NEED ADJUSTMENTS
+- NAVIGATIONS IN FOOTER = 16px + white-50 + 1stLetterCapsOnly
+-!important rework: _navbar;
+
+- next main landing page partial  ( main[ intro page (probably descriptive jumbotron or customized)])
+- carousel below landing page maybe?
+
+grayscale tyles:
+
+https://s3.envato.com/files/110107706/ScreenShot/style5.jpg
+http://s3.envato.com/files/245877721/Cove-Prview.__large_preview.jpg
+probably a good reference since the theme is simple light and dark style;
+SEARCH: grayscales style wallpaper: main background picture ;

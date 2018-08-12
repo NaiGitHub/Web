@@ -1,0 +1,9 @@
+navbar : font 16px
+family:'Nunito Sans','SF Pro Text','SF Pro Icons',Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+line-height: 24px;
+color : #262626;
+12px top pad
+24px lineheight
+12px bot pad
+
+navpad 16topbot
